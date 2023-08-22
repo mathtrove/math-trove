@@ -1,0 +1,9 @@
+.btn-cta{
+    font-size: 1.4rem;
+    border: none;
+    outline: none;
+    padding: .8rem 2rem;
+    border-radius: 30px;
+    background-color: #116877;
+    color: white;
+}
